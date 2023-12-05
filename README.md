@@ -1,4 +1,4 @@
-# DIO_Pojeto_Banco-Digital
+# DIO_Projeto_Banco-Digital
 Criação de Banco Digital usando os pilares da POO seguindo  o padrão que ja foi definido
 
 Alterei as Classes Conta, Contacorrente e ContaPoupanca,
